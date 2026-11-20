@@ -1,6 +1,6 @@
 cask "appdab-cli" do
-  version "0.0.3"
-  sha256 "777146d2b47b2d9f008a081bdea6b3a621063c063442a2c58f6989c17656511b"
+  version "0.0.4"
+  sha256 "1a68ce1a3739d7c1d5be1e081fbb88b363e1b5cf006a1e76c78743a13c504224"
 
   url "https://github.com/AppDab/AppDabCLI/releases/download/v#{version}/AppDabCLI-#{version}.zip"
   name "AppDab CLI"
